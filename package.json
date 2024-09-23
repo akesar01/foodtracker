@@ -1,0 +1,22 @@
+{
+  "name": "swiggytracker",
+  "version": "1.0.0",
+  "description": "tracks the spends on swiggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akesar01/foodtracker.git"
+  },
+  "author": "Aditi & Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akesar01/foodtracker/issues"
+  },
+  "homepage": "https://github.com/akesar01/foodtracker#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
